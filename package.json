@@ -1,0 +1,24 @@
+{
+  "name": "@alxaux/pager",
+  "version": "1.0.0",
+  "description": "Module to configure website page properties.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alxaux/alxaux-pager.git"
+  },
+  "keywords": [
+    "page",
+    "title",
+    "properties"
+  ],
+  "author": "Aleksandr Timoshin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alxaux/alxaux-pager/issues"
+  },
+  "homepage": "https://github.com/alxaux/alxaux-pager#readme"
+}
